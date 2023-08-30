@@ -32,6 +32,26 @@
 $ npm install
 ```
 
+## Generating Project structure
+
+```bash
+$ npx @nestjs/cli new customer-project
+```
+
+## Generating API structure
+
+```bash
+$ npx @nestjs/cli new customer-project
+```
+
+
+```bash
+$ npx @nestjs/cli generate resource
+```
+
+- Create API name
+
+
 ## Running the app
 
 ```bash
